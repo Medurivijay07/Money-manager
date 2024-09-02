@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.unordered-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-container1 {
+  list-style-type: none;
+  height: 90px;
+  width: 250px;
+  background-color: #ecfccb;
+  border-radius: 8px;
+  border: 1px solid #84cc16;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+
+.image {
+  height: 50px;
+}
+
+.amount {
+  color: #1e293b;
+  font-weight: bold;
+}
+
+.card-container2 {
+  list-style-type: none;
+  height: 90px;
+  width: 250px;
+  background-color: #cffafe;
+  border-radius: 8px;
+  border: 1px solid #06b6d4;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+
+.card-container3 {
+  list-style-type: none;
+  height: 90px;
+  width: 250px;
+  background-color: #ede9fe;
+  border-radius: 8px;
+  border: 1px solid #7c3aed;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+
